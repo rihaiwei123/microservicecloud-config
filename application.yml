@@ -13,7 +13,7 @@ spring:
 --
 
 spring:
-  profiles:
+  profiles: test
   application:
     name: microservicecloud-config-atguigu-test
 
